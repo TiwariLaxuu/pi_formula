@@ -37,6 +37,7 @@ return(1/sum)
 
 print(“Pi value using Ramanujan Formula : “,pi_formula())
 
+![alt text](ramanujan_pi_formula.jpg)
 
 
 
