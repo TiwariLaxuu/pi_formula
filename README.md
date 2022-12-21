@@ -41,7 +41,7 @@ print(“Pi value using Ramanujan Formula : “,pi_formula())
 
 
 
-#The formula of Pi can be expressed as,
+# The formula of Pi can be expressed as,
 Circumference / Diameter = π = 3.14159… or 22/7.
 Circumference of Circle = 2πr. Area of circle = πr2 Surface Area of Circle = 4πr2 Volume of a sphere = 4/3 πr3
 Given: The perimeter of a circular pipe = 84 inches. By Using pi formula, We have , Pi(π) = (Circumference / Diameter)
